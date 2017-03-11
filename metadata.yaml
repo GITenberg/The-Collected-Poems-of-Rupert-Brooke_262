@@ -1,5 +1,5 @@
 _repo: The-Collected-Poems-of-Rupert-Brooke_262
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Woodberry, George Edward
@@ -12,6 +12,9 @@ contributor:
     agent_name: Lavington, Margaret
     gutenberg_agent_id: '42404'
     url: http://www.gutenberg.org/2009/agents/42404
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brooke, Rupert
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/148
     wikipedia: http://en.wikipedia.org/wiki/Rupert_Brooke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/262#The-Collected-Poems-of-Rupert-Brooke
 gutenberg_bookshelf: Poetry
 gutenberg_issued: '1995-05-01'
 gutenberg_type: Text
